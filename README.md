@@ -1,4 +1,6 @@
 # IoT Standards
+Here is a random list of Internet of Things (IoT) "standards". Later on, I will try to add more details to all those links and give them a rating. Feel free to send me some more.
+
 
 ## Device management
 * [OMA LWM2M](http://openmobilealliance.org/iot/lightweight-m2m-lwm2m)
